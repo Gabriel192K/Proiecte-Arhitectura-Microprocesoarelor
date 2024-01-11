@@ -1,2 +1,4 @@
 # Proiecte-Arhitectura-Microprocesoarelor
-Proiecte smechere EA3 si CAL2
+Proiecte EA3 si CAL2
+# Profesor Curs
+`Mic Daniel`
