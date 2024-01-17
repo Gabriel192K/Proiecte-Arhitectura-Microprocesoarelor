@@ -10,4 +10,4 @@
 ## Calculatoare II
 - Mascovici Alexandru & Muresan Alexandru (PCI-Express)
 
-## Profesor Profesor Curs `Mic Daniel`
+## Profesor Curs `Mic Daniel`
