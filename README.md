@@ -1,4 +1,4 @@
-# Proiecte-Arhitectura-Microprocesoarelor
+# Proiecte `Arhitectura Microprocesoarelor`
 
 ## Electronica Aplicata III
 - Rotes Gabriel (Instructiuni si operatii atomice in limbajul de programare)
